@@ -47,10 +47,10 @@ Before using the flasher tool, make sure to have the following:
 ## Performing the Factory Reset on Pepper
 
 1. **Power Off Pepper**:  
-   Ensure the Pepper robot is turned off before proceeding.
+   - Ensure the Pepper robot is turned off before proceeding.
 
 2. **Insert the USB Flasher**:  
-   Insert the USB drive into Pepper's head.
+   - Insert the USB drive into Pepper's head.
 
 3. **Initiate the Reset**:  
    - Press and hold the **chest button** on Pepper for at least 6 seconds until the LED starts flashing rapidly in **blue**.
