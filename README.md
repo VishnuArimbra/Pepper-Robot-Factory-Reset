@@ -64,5 +64,5 @@ Before using the flasher tool, make sure to have the following:
 
 ## Credits
 
-These instructions and steps for performing a ***factory reset*** on the ***Pepper robot*** were sourced from ***RobotLab***. Special thanks to their team for providing detailed and valuable resources for this process.
+These instructions and steps for performing a ***factory reset*** on the ***Pepper robot*** were sourced from [***RobotLab***](https://www.robotlab.com/support). Special thanks to their team for providing detailed and valuable resources for this process.
 
