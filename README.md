@@ -60,3 +60,9 @@ Before using the flasher tool, make sure to have the following:
    - Once the reset is finished,It will produce a startup sound.
    - Pepper will announce:  
      "I successfully updated my system. I am now running version x.y.z. I successfully completed my factory reset. All of my data and settings have been reset."
+
+
+## Credits
+
+These instructions and steps for performing a ***factory reset*** on the ***Pepper robot*** were sourced from ***RobotLab***. Special thanks to their team for providing detailed and valuable resources for this process.
+
